@@ -59,7 +59,7 @@ A visual infographic was created to simplify key digital concepts for students a
 Platforms used to build a professional online presence:
 - GitHub  
 - LinkedIn  
-- Kaggle *(or replace if different)*  
+- Kaggle 
 
 Profiles were set up with basic academic details and will be used for showcasing skills and projects in the future.
 
